@@ -6,19 +6,19 @@
 
 * Shooting speed is faster than a normal skeleton.
 
-| :Hostile Mob: |
-| :- - - - - -: |
-| :Creepers: |
-| :Zombies: |
-
-
-#### Intelligence Creepers
+| Hostile Mob |  
+| :---------: |  
+| Creepers |  
+| Zombies |  
+  
+  
+#### Intelligence Creeper
 
 * They stopped self-destructing and started attacking with TNT instead. 
 * Also, they noticed the cuteness of the cat and couldn't run away from it.
 
-| :Hostile Mob: |
-| :- - - - - -: |
-| :Skeletons: |
-| :Spiders: |
-| :Zombies: |
+| Hostile Mob | Avoid |
+| :---------: | :---: |
+| Skeletons | Ignition TNT |
+| Spiders |
+| Zombies |
